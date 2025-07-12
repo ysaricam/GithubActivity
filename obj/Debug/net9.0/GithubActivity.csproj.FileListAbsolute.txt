@@ -1,0 +1,14 @@
+/Users/yasin/Desktop/Projeler/GitHubActivity/GithubActivity/bin/Debug/net9.0/GithubActivity
+/Users/yasin/Desktop/Projeler/GitHubActivity/GithubActivity/bin/Debug/net9.0/GithubActivity.deps.json
+/Users/yasin/Desktop/Projeler/GitHubActivity/GithubActivity/bin/Debug/net9.0/GithubActivity.runtimeconfig.json
+/Users/yasin/Desktop/Projeler/GitHubActivity/GithubActivity/bin/Debug/net9.0/GithubActivity.dll
+/Users/yasin/Desktop/Projeler/GitHubActivity/GithubActivity/bin/Debug/net9.0/GithubActivity.pdb
+/Users/yasin/Desktop/Projeler/GitHubActivity/GithubActivity/obj/Debug/net9.0/GithubActivity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yasin/Desktop/Projeler/GitHubActivity/GithubActivity/obj/Debug/net9.0/GithubActivity.AssemblyInfoInputs.cache
+/Users/yasin/Desktop/Projeler/GitHubActivity/GithubActivity/obj/Debug/net9.0/GithubActivity.AssemblyInfo.cs
+/Users/yasin/Desktop/Projeler/GitHubActivity/GithubActivity/obj/Debug/net9.0/GithubActivity.csproj.CoreCompileInputs.cache
+/Users/yasin/Desktop/Projeler/GitHubActivity/GithubActivity/obj/Debug/net9.0/GithubActivity.dll
+/Users/yasin/Desktop/Projeler/GitHubActivity/GithubActivity/obj/Debug/net9.0/refint/GithubActivity.dll
+/Users/yasin/Desktop/Projeler/GitHubActivity/GithubActivity/obj/Debug/net9.0/GithubActivity.pdb
+/Users/yasin/Desktop/Projeler/GitHubActivity/GithubActivity/obj/Debug/net9.0/GithubActivity.genruntimeconfig.cache
+/Users/yasin/Desktop/Projeler/GitHubActivity/GithubActivity/obj/Debug/net9.0/ref/GithubActivity.dll
