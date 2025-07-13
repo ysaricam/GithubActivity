@@ -12,3 +12,4 @@
 /Users/yasin/Desktop/Projeler/GitHubActivity/GithubActivity/obj/Debug/net9.0/GithubActivity.pdb
 /Users/yasin/Desktop/Projeler/GitHubActivity/GithubActivity/obj/Debug/net9.0/GithubActivity.genruntimeconfig.cache
 /Users/yasin/Desktop/Projeler/GitHubActivity/GithubActivity/obj/Debug/net9.0/ref/GithubActivity.dll
+/Users/yasin/Desktop/Projeler/GitHubActivity/GithubActivity/obj/Debug/net9.0/GithubActivity.sourcelink.json
